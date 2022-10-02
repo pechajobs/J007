@@ -18,8 +18,20 @@
 <hr>
 
 ## Description
+BDRC_scan_id: W2PD17457
+Image_group_id: I1PD95846
 
-The template repo to be used across all repos.
+Test:
+  OCR Language_hint types:
+    1. model=”builtin/weekly” & language_hints=[None]:
+        Inuput_path = ```Test/Input/I001```
+        output_opf_path = ```Test/Output/T001```
+    2. model=”builtin/weekly” & language_hints=[“bo-t-i0-handwrit”]:
+        Inuput_path = ```Test/Input/I002```
+        output_opf_path = ```Test/Output/T002```
+    3. model=”builtin/weekly” & language_hints=[“und-t-i0-handwrit”]:
+        Inuput_path = ```Test/Input/I003```
+        output_opf_path = ```Test/Output/T003```
 
 <!-- This section provides a high-level overview for the repo -->
 
