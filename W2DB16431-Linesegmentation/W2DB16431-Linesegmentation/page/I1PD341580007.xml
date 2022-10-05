@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-09-22T14:30:03.771+05:30</Created>
+        <LastChange>2022-09-26T06:27:30.549+02:00</LastChange>
+        <TranskribusMetadata docId="1166758" pageId="47736115" pageNr="4" tsid="96307051" status="IN_PROGRESS" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=WJYBFZPEWOXRCLZPCITSXNFO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTPVERBYETHXETWAHYJGLCDV" imageId="39011270"/>
+    </Metadata>
+    <Page imageFilename="I1PD341580007.jpg" imageWidth="3844" imageHeight="904">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1664352463266" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1664166212880_774"/>
+                <RegionRefIndexed index="1" regionRef="region_1664166219997_777"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1664166212880_774" custom="readingOrder {index:0;}">
+            <Coords points="973,267"/>
+        </TextRegion>
+        <TextRegion id="region_1664166219997_777" custom="readingOrder {index:1;}">
+            <Coords points="969,425 977,270 1183,269 1478,269 1826,270 2362,273 2700,277 2851,280 2851,437 2855,588 2679,591 2334,588 1856,580 1421,576 1118,568 966,568"/>
+            <TextLine id="line_1664166360339_782" custom="readingOrder {index:0;}">
+                <Coords points="1000,302 1081,299 1083,349 1002,352"/>
+                <Baseline points="1002,347 1083,344"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664166415253_805" custom="readingOrder {index:1;}">
+                <Coords points="1127,304 1525,307 1953,321 2493,327 2795,323 2796,373 2493,377 1952,371 1524,357 1127,354"/>
+                <Baseline points="1127,349 1524,352 1952,366 2493,372 2796,368"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664166386664_795" custom="readingOrder {index:2;}">
+                <Coords points="985,373 1069,373 1069,423 985,423"/>
+                <Baseline points="985,418 1069,418"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664166430262_810" custom="readingOrder {index:3;}">
+                <Coords points="1126,374 1526,385 2008,385 2542,402 2819,402 2819,452 2541,452 2007,435 1525,435 1125,424"/>
+                <Baseline points="1125,419 1525,430 2007,430 2541,447 2819,447"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664166391737_800" custom="readingOrder {index:4;}">
+                <Coords points="988,463 1074,464 1073,514 987,513"/>
+                <Baseline points="987,508 1073,509"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664166446284_815" custom="readingOrder {index:5;}">
+                <Coords points="1129,464 1579,473 2049,479 2523,485 2823,483 2823,533 2523,535 2048,529 1578,523 1128,514"/>
+                <Baseline points="1128,509 1578,518 2048,524 2523,530 2823,528"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
