@@ -38,7 +38,6 @@
 ## Owner
 
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
 
 <!-- This section lists the owners of the repo -->
 
