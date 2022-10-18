@@ -3,8 +3,73 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-09-22T14:13:16.585+05:30</Created>
-        <LastChange>2022-09-22T14:13:16.585+05:30</LastChange>
-        <TranskribusMetadata docId="1166757" pageId="47736066" pageNr="45" tsid="96175950" status="NEW" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=XDSVKYMRESPMPBIHCQKVLEYT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FMXLYPRWUDLUXFGGWRFXKSRH" imageId="39011221"/>
+        <LastChange>2022-10-13T07:29:44.552+02:00</LastChange>
+        <TranskribusMetadata docId="1166757" pageId="47736066" pageNr="45" tsid="97485318" status="IN_PROGRESS" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=XDSVKYMRESPMPBIHCQKVLEYT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UADIYORAKJWNYWAZJLVMDVIL" imageId="39011221"/>
     </Metadata>
-    <Page imageFilename="I4CZ3706610016.jpg" imageWidth="2245" imageHeight="514"/>
+    <Page imageFilename="I4CZ3706610016.jpg" imageWidth="2245" imageHeight="514">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666088534813" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1665638865381_617"/>
+                <RegionRefIndexed index="1" regionRef="region_1665638856883_608"/>
+                <RegionRefIndexed index="2" regionRef="region_1665638838952_602"/>
+                <RegionRefIndexed index="3" regionRef="region_1665638840107_605"/>
+                <RegionRefIndexed index="4" regionRef="region_1665638861025_611"/>
+                <RegionRefIndexed index="5" regionRef="region_1665638861959_614"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1665638865381_617" custom="readingOrder {index:0;}">
+            <Coords points="979,77 1090,77 1090,171 979,171"/>
+            <TextLine id="line_1665638939194_637" custom="readingOrder {index:0;}">
+                <Coords points="1000,105 1061,105 1061,155 1000,155"/>
+                <Baseline points="1000,150 1061,150"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1665638856883_608" custom="readingOrder {index:1;}">
+            <Coords points="626,286 626,182 842,182 1216,181 1442,182 1441,290 1442,421 1195,423 809,422 626,421"/>
+            <TextLine id="line_1665638918815_627" custom="readingOrder {index:0;}">
+                <Coords points="777,221 1393,227 1393,277 777,271"/>
+                <Baseline points="777,266 1393,272"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1665638910929_622" custom="readingOrder {index:1;}">
+                <Coords points="679,233 774,233 774,283 679,283"/>
+                <Baseline points="679,278 774,278"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1665638925224_632" custom="readingOrder {index:2;}">
+                <Coords points="944,311 1138,314 1137,364 943,361"/>
+                <Baseline points="943,356 1137,359"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1665638838952_602" custom="readingOrder {index:2;}">
+            <Coords points="634,185"/>
+        </TextRegion>
+        <TextRegion id="region_1665638840107_605" custom="readingOrder {index:3;}">
+            <Coords points="634,185"/>
+        </TextRegion>
+        <TextRegion id="region_1665638861025_611" custom="readingOrder {index:4;}">
+            <Coords points="979,79"/>
+        </TextRegion>
+        <TextRegion id="region_1665638861959_614" custom="readingOrder {index:5;}">
+            <Coords points="979,77"/>
+        </TextRegion>
+    </Page>
 </PcGts>
