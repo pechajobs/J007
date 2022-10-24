@@ -3,8 +3,27 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-10-11T17:45:54.564+05:30</Created>
-        <LastChange>2022-10-11T17:45:54.564+05:30</LastChange>
-        <TranskribusMetadata docId="1187837" pageId="48229855" pageNr="71" tsid="97276153" status="NEW" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=ALPPVITNFWDNWOWVQCSLEXYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AMTYFSWBKPJSZKBWGALGXHXU" imageId="39431368"/>
+        <LastChange>2022-10-23T17:37:09.058+02:00</LastChange>
+        <TranskribusMetadata docId="1187837" pageId="48229855" pageNr="71" tsid="99782602" status="IN_PROGRESS" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=ALPPVITNFWDNWOWVQCSLEXYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USWEYQAJRBYNPMBJZZJOXJIY" imageId="39431368"/>
     </Metadata>
-    <Page imageFilename="I4CZ3706620657.jpg" imageWidth="2245" imageHeight="514"/>
+    <Page imageFilename="I4CZ3706620657.jpg" imageWidth="2245" imageHeight="514">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666602407215" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1666539210068_15806"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1666539210068_15806" custom="readingOrder {index:0;}">
+            <Coords points="256,254 252,155 527,154 988,154 1352,155 1761,155 2063,155 2066,266 2069,363 1861,362 1569,363 1155,363 823,362 459,362 260,363"/>
+            <TextLine id="line_1666539423768_15819" custom="readingOrder {index:0;}">
+                <Coords points="313,172 565,169 799,163 800,213 566,219 314,222"/>
+                <Baseline points="314,217 566,214 800,208"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>
