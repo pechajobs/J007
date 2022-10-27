@@ -3,8 +3,35 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-10-11T17:51:41.088+05:30</Created>
-        <LastChange>2022-10-11T17:51:41.088+05:30</LastChange>
-        <TranskribusMetadata docId="1187842" pageId="48230924" pageNr="72" tsid="97277364" status="NEW" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=URJMUACMDQYLXTHNBLXCVKIN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XEQLYLGCEKOGXFXGATLRVOAX" imageId="39432431"/>
+        <LastChange>2022-10-27T09:56:49.443+02:00</LastChange>
+        <TranskribusMetadata docId="1187842" pageId="48230924" pageNr="72" tsid="100439101" status="IN_PROGRESS" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=URJMUACMDQYLXTHNBLXCVKIN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KDYUEHTDXCNPBGZNMWSQLEIZ" imageId="39432431"/>
     </Metadata>
-    <Page imageFilename="I1KG117680441.jpg" imageWidth="4896" imageHeight="1312"/>
+    <Page imageFilename="I1KG117680441.jpg" imageWidth="4896" imageHeight="1312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666865497807" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1666857210094_1131"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1666857210094_1131" custom="readingOrder {index:0;}">
+            <Coords points="900,566 902,475 1195,483 1708,496 2391,516 2991,533 3314,541 3313,648 3310,753 2924,748 2325,731 1702,719 1212,704 893,692"/>
+            <TextLine id="line_1666857401071_1145" custom="readingOrder {index:0;}">
+                <Coords points="1067,539 1910,572 2705,592 3260,610 3259,660 2704,642 1909,622 1065,589"/>
+                <Baseline points="1065,584 1909,617 2704,637 3259,655"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1666857380532_1140" custom="readingOrder {index:1;}">
+                <Coords points="929,541 1041,541 1041,591 929,591"/>
+                <Baseline points="929,586 1041,586"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
 </PcGts>
