@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://openpecha.org"><img src="https://avatars.githubusercontent.com/u/82142807?s=400&u=19e108a15566f3a1449bafb03b8dd706a72aebcd&v=4" alt="OpenPecha" width="150"></a>
+  <a href="https://pecha.jobs"><img src="https://avatars.githubusercontent.com/u/111121384?s=400&u=8845a52564bdd6b236cbff4c95843c475f0fa3b7&v=4" alt="OpenPecha" width="150"></a>
   <br>
 </h1>
 
@@ -18,15 +18,26 @@
 <hr>
 
 ## Description
+* BDRC_scan_id: W2PD17457
+* Image_group_id: I1PD95846
 
-The template repo to be used across all repos.
+### Test:
+  #### OCR Language_hint types:
+     1. model=”builtin/weekly” & language_hints=[None]:
+        Inuput_path = Test/Input/I001
+        output_opf_path = Test/Output/T001
+     2. model=”builtin/weekly” & language_hints=[“bo-t-i0-handwrit”]:
+        Inuput_path = Test/Input/I002
+        output_opf_path = Test/Output/T002
+     3. model=”builtin/weekly” & language_hints=[“und-t-i0-handwrit”]:
+        Inuput_path = Test/Input/I003
+        output_opf_path = Test/Output/T003
 
 <!-- This section provides a high-level overview for the repo -->
 
 ## Owner
 
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
 
 <!-- This section lists the owners of the repo -->
 
