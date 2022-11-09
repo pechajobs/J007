@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-10-11T17:52:39.882+05:30</Created>
+        <LastChange>2022-10-31T09:20:25.674+01:00</LastChange>
+        <TranskribusMetadata docId="1187896" pageId="48232677" pageNr="27" tsid="101124772" status="IN_PROGRESS" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=EHAECHDLUTFPGTIJGAKDCSBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BLCBPEEUHBKPVTAMWDLRUPJG" imageId="39434159"/>
+    </Metadata>
+    <Page imageFilename="I1KG101510191.jpg" imageWidth="5120" imageHeight="1344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1667889704639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1667204327794_1199"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1667204327794_1199" custom="readingOrder {index:0;}">
+            <Coords points="1719,608 1947,607 2299,607 2785,610 3275,604 3598,603 3598,822 3338,823 2980,821 2478,818 2031,813 1714,812"/>
+            <TextLine id="line_1667204413893_1204" custom="readingOrder {index:0;}">
+                <Coords points="1718,689 1843,685 1844,735 1719,739"/>
+                <Baseline points="1719,734 1844,730"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1667204421671_1209" custom="readingOrder {index:1;}">
+                <Coords points="1921,687 2801,703 3544,703 3544,753 2801,753 1920,737"/>
+                <Baseline points="1920,732 2801,748 3544,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
