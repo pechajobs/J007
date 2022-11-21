@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-09-06T12:00:26.622+02:00</Created>
+        <TranskribusMetadata docId="1233827" pageId="50258497" pageNr="665" tsid="104190594" status="NEW" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=LEFTXWIFVTBYZHRREQRZIVDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQRZSYYLTRCYPRJULBCBETPG" imageId="41048436"/>
+    </Metadata>
+    <Page imageFilename="image667_1.jpeg" imageWidth="2546" imageHeight="501">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1669019179587" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_main"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_main" custom="readingOrder {index:0;}">
+            <Coords points="[array([[0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        ...,        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8), array([[0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        ...,        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8), array([[0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        ...,        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8)]"/>
+            <TextLine id="line_9874_0" custom="readingOrder {index:0;}">
+                <Coords points="830,206 830,251 834,251 835,252 835,256 841,256 842,257 842,259 891,259 891,257 892,256 898,256 898,254 899,253 901,253 901,201 894,201 893,200 893,198 837,198 837,200 836,201 835,201 835,203 834,204 832,204 832,205 831,206 "/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9874_1" custom="readingOrder {index:1;}">
+                <Coords points="927,211 927,251 934,259 1547,259 1721,261 1722,264 1761,264 1762,261 1766,261 1767,264 1853,264 1861,256 1861,206 1857,206 1853,201 1737,204 1736,201 1623,201 1622,198 1481,198 1480,201 1471,201 1470,198 1106,196 934,198 933,201 929,201 "/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9874_2" custom="readingOrder {index:2;}">
+                <Coords points="583,249 583,289 584,290 585,290 586,291 586,292 587,292 588,293 588,295 622,295 622,293 623,292 630,292 630,288 631,287 632,287 632,250 631,250 630,249 630,248 628,248 627,247 627,245 589,245 588,246 588,247 587,248 584,248 "/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
