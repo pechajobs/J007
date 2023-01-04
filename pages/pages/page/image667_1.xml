@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-09-06T12:00:26.622+02:00</Created>
+        <LastChange>2023-01-03T11:49:25.551+01:00</LastChange>
+        <TranskribusMetadata docId="1233827" pageId="50258497" pageNr="665" tsid="108533380" status="IN_PROGRESS" userId="129291" imgUrl="https://files.transkribus.eu/Get?id=LEFTXWIFVTBYZHRREQRZIVDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCYYNFOKKYWSVYWNBVLQYSVK" imageId="41048436"/>
+    </Metadata>
+    <Page imageFilename="image667_1.jpeg" imageWidth="2546" imageHeight="501">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1672835590046" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_main"/>
+                <RegionRefIndexed index="1" regionRef="region_1672742725547_11436"/>
+                <RegionRefIndexed index="2" regionRef="region_1672742732863_11439"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_main" custom="readingOrder {index:0;}">
+            <Coords points="[array([[0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        ...,        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8), array([[0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        ...,        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8), array([[0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        ...,        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0],        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8)]"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1672742725547_11436" custom="readingOrder {index:1;}">
+            <Coords points="818,182"/>
+        </TextRegion>
+        <TextRegion id="region_1672742732863_11439" custom="readingOrder {index:2;}">
+            <Coords points="822,245 819,183 941,181 1124,182 1313,184 1533,183 1710,183 1877,189 1877,248 1875,316 1738,315 1571,311 1374,313 1132,312 940,313 823,312"/>
+            <TextLine id="line_1672742931061_11462" custom="readingOrder {index:0;}">
+                <Coords points="829,198 888,201 886,251 827,248"/>
+                <Baseline points="827,243 886,246"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1672742950113_11467" custom="readingOrder {index:1;}">
+                <Coords points="936,200 1388,203 1845,208 1845,258 1388,253 936,250"/>
+                <Baseline points="936,245 1388,248 1845,253"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
